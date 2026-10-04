@@ -1,0 +1,9 @@
+{
+  "name": "EchoSpeak - AI English Speaking Coach (A1-A2)",
+  "description": "Ứng dụng luyện giao tiếp tiếng Anh tương tác giọng nói trực tiếp cho trình độ A1-A2 với phản hồi phát âm, ngữ pháp và hội thoại thực tế.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
